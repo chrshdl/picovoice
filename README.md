@@ -1,3 +1,4 @@
 # picovoice
 
-speech to text
+speech to text https://arxiv.org/abs/2005.08100
+
